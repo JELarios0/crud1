@@ -1,0 +1,21 @@
+body
+{
+    background-color: rgb(6, 6, 6);
+    text-align: justify;
+    background-image: url(https://fotografias.lasexta.com/clipping/cmsimages01/2020/10/30/E3AB77A0-0A1E-4EB3-8048-24D5D96E15B9/default.jpg?crop=1297,730,x3,y0&width=1900&height=1069&optimize=low);
+    
+    
+    
+}
+
+
+.form-control{
+   background-color: rgb(255, 255, 255);
+   font-size: 18px;
+   font-weight: 300;
+   border: 50px;
+}
+.lgris{
+    color: rgb(0, 0, 0);
+    font-weight: 800;
+}

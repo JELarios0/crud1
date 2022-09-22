@@ -1,0 +1,78 @@
+body
+{
+    background-color: rgb(255, 254, 254);
+    text-align: justify;
+    background-image: url(https://i.pinimg.com/originals/17/0b/2b/170b2bba7048acbb7ef07424405abe1a.jpg);
+    
+    
+    
+}
+
+
+
+#div2
+{
+    width: 80%;
+    margin: 0 auto;
+    padding: 0;
+    border-style: solid;
+    border-width: thin;
+    border: 1px solid #7d857c;
+    text-align: center;
+    border-radius: 20%;
+}
+
+
+#div3
+{
+    /* background-color: rgb(228, 29, 29);*/
+    font-size: 21px;
+    padding: 5;
+    border-width: thin;
+    border: 1px ;
+    text-align: center;
+    /*background-image: linear-gradient( rgb(255, 254, 254), rgb(255, 254, 254));*/
+}
+
+.lgris
+{
+    color: rgb(252, 249, 249);
+}
+
+.btn1
+{
+    background-color: rgb(16, 236, 16);
+    color: rgb(233, 83, 83);
+    font-size: 15px;
+    font-weight: bold;
+    width: 40%;
+}
+
+#divconsulta
+{
+    width: 80%;
+    padding: 0;
+    border-style: solid;
+    border-width: thin;
+    border: 0px solid;
+   /* background-color: rgb(255, 254, 254);*/
+    text-align: center;
+    
+
+}
+
+#divconsulta2
+{
+   /* background-color: rgb(0, 205, 241);*/
+    font-size: 21px;
+    padding: 5;
+    border-width: thin;
+    border: 1px solid #103620;
+    text-align: center;
+    background-image: linear-gradient( rgb(0, 205, 241), rgb(245, 245, 239));
+}
+
+.titulo{
+    color: white;
+}
+

@@ -1,0 +1,21 @@
+body
+    {
+        background-color: rgb(6, 6, 6);
+        text-align: justify;
+        background-image: url(https://i.pinimg.com/originals/b8/8c/d6/b88cd67fef9b2f690667dcb86df35f5b.jpg);
+        
+        
+        
+    }   
+
+
+.form-control{
+   background-color: rgb(255, 255, 255);
+   font-size: 18px;
+   font-weight: 300;
+   border: 50px;
+}
+.lgris{
+    color: rgb(252, 252, 252);
+    font-weight: 800;
+}
